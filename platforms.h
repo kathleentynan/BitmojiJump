@@ -1,0 +1,1 @@
+void handlePlatforms(PLATFORM *platforms);

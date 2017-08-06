@@ -1,0 +1,33 @@
+-switch background as get higher
+
+--collide only if rdel > 100 aka going down
+
+--global variable for how high you've climbed - score
+-decrese going up, increase going down
+
+--amount of platforms
+--counting height
+	-as player's row decreases add to height?
+	-but how to go out of bounds of screen
+--changing background 
+
+
+
+instructions:
+How to Jump
+	use the left and right arrows to
+	jump from platform to platform.
+	Climb the highest you can without 
+	falling
+	Avoid or shoot enemies using A
+	Press select to pause
+
+-sound for toggling between options
+-organize final mode 4 images into one file
+-organize final sounds into one file
+-counting height
+-counting
+
+--go over gravity more
+--transparency
+--same platform don't move up
